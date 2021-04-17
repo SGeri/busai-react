@@ -1,0 +1,45 @@
+export const unitDropdownOptions = [
+  { key: 1, value: "db", text: "db" },
+  { key: 2, value: "m", text: "m" },
+  { key: 3, value: "kg", text: "kg" },
+  { key: 4, value: "csomag", text: "csomag" },
+  { key: 5, value: "pár", text: "pár" },
+  { key: 6, value: "l", text: "l" },
+  { key: 7, value: "ml", text: "ml" },
+];
+
+export const vatDropdownOptions = [
+  { key: 1, value: 5, text: "5%" },
+  { key: 2, value: 18, text: "18%" },
+  { key: 3, value: 27, text: "27%" },
+];
+
+export const supplierDropdownOptions = [
+  { key: 1, value: "Török fenti", text: "Török fenti" },
+  { key: 2, value: "Török lenti", text: "Török lenti" },
+  { key: 3, value: "Abraboro", text: "Abraboro" },
+  { key: 4, value: "ABUS", text: "ABUS" },
+  { key: 5, value: "Alumínium", text: "Alumínium" },
+  { key: 6, value: "Bálint", text: "Bálint" },
+  { key: 7, value: "Beorol", text: "Beorol" },
+  { key: 8, value: "BQ", text: "BQ" },
+  { key: 9, value: "Fa", text: "Fa" },
+  { key: 10, value: "Festék", text: "Festék" },
+  { key: 11, value: "Hallux", text: "Hallux" },
+  { key: 12, value: "Izzó", text: "Izzó" },
+  { key: 13, value: "Kecskeméti", text: "Kecskeméti" },
+  { key: 14, value: "Mobilchem", text: "Mobilchem" },
+  { key: 15, value: "Mofém", text: "Mofém" },
+  { key: 16, value: "Mungo", text: "Mungo" },
+  { key: 17, value: "Nándi", text: "Nándi" },
+  { key: 18, value: "OBI", text: "OBI" },
+  { key: 19, value: "Piactér", text: "Piactér" },
+  { key: 20, value: "Ráti", text: "Ráti" },
+  { key: 21, value: "Somogyi", text: "Somogyi" },
+  { key: 22, value: "Stanley", text: "Stanley" },
+  { key: 23, value: "SzaCo", text: "SzaCo" },
+  { key: 24, value: "Szolgálati Közlemények", text: "Szolgálati Közlemények" },
+  { key: 25, value: "Technocar", text: "Technocar" },
+  { key: 26, value: "Tytan", text: "Tytan" },
+  { key: 27, value: "Zár-Vasalás", text: "Zár-Vasalás" },
+];
